@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Reon Hirobe 👋
 
-<!--
-**LEON-72/LEON-72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+プログラミングやゲーム開発を楽しんでいます。
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🔭 **現在取り組んでいること:** [ここにプロジェクト名や学習内容を記入]
+- 🌱 **現在学習中:** [現在学んでいる言語やフレームワークを記入]
+- ⚡ **趣味:** [趣味や好きなことを記入]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/-Unity-ffffff?logo=unity&style=flat&logoColor=black" alt="Unity">
+  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visual-studio-code&style=flat" alt="VSCode">
+</p>
+
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=LEON-72&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LEON-72&layout=compact&theme=radical)
