@@ -10,4 +10,4 @@
 ![Unity](https://img.shields.io/badge/Unity-101010.svg?logo=unity&style=for-the-badge&logoColor=white)
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=LEON-72&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=LEON-72&show_icons=true&theme=radical&count_private=true)
