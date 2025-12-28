@@ -1,13 +1,14 @@
-# Hi there, I'm Reon Hirobe 👋
+# Hi there, I'm Leon Hirobe 👋
 
 ## 🛠 SKILLS
-
 ### Language
-![C](https://img.shields.io/badge/C-A8B9CC.svg?logo=c&style=for-the-badge&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120.svg?logo=c-sharp&style=for-the-badge&logoColor=white)
+![My Skills](https://skillicons.dev/icons?i=c,cs,js,go)
 
 ### Frameworks
-![Unity](https://img.shields.io/badge/Unity-101010.svg?logo=unity&style=for-the-badge&logoColor=white)
+![My Skills](https://skillicons.dev/icons?i=unity,electron)
+
+### Other
+![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,html,css,md,discord)
 
 ## 📊 GitHub Stats
 <p align="left"> 
