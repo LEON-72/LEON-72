@@ -1,4 +1,4 @@
-# Hi there, I'm Reon Hirobe 👋
+# Hi there, I'm Reon 👋
 
 ## 🛠 SKILLS
 ### Language
