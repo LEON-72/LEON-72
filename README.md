@@ -12,7 +12,7 @@
 
 ## 📊 GitHub Stats
 <p align="left"> 
-  <img alt="GitHub Stats" height="150px" src="https://github-readme-stats-hg35opo68-leon-72s-projects.vercel.app/api?username=LEON-72&show_icons=true&theme=radical&v=1" />
+  <img alt="GitHub Stats" height="150px" src="https://github-readme-stats-hg35opo68-leon-72s-projects.vercel.app/api?username=LEON-72&show_icons=true&theme=radical&v=10" />
   
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats-hg35opo68-leon-72s-projects.vercel.app/api/top-langs/?username=LEON-72&layout=compact&theme=radical&v=1" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats-hg35opo68-leon-72s-projects.vercel.app/api/top-langs/?username=LEON-72&layout=compact&theme=radical&v=10" />
 </p>
