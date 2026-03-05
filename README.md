@@ -11,5 +11,4 @@
 ![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,html,css,md,discord)
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=LEON-72&show_icons=true&theme=transparent&1)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LEON-72&layout=compact&theme=transparent&1)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=LEON-72&theme=transparent)
