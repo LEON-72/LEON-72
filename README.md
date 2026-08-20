@@ -1,28 +1,26 @@
-# Hi there, I'm Reon 👋
+# Hi, I'm Reon 👋
 
-## 🛠 SKILLS
-### Languages
-![My Skills](https://skillicons.dev/icons?i=c,cs,ts,go,html,css,)
+学生で、**Unityを中心にゲーム開発**をしています。
 
-### Frameworks
-![My Skills](https://skillicons.dev/icons?i=react,nextjs,unity,electron)
+## 🛠 Skills
 
-### Infrastructure & Database
-![My Skills](https://skillicons.dev/icons?i=docker,supabase,prisma,postgres,vercel)
+### Main
+![Skills](https://skillicons.dev/icons?i=cs,unity,github)
 
-### Development Tools
-![My Skills](https://skillicons.dev/icons?i=git,github,postman,vscode,visualstudio,discord)
-
-### OS
-![My Environments](https://skillicons.dev/icons?i=windows)
+### Also
+![Skills](https://skillicons.dev/icons?i=ts)
 
 ## 🔭 Currently Working On
+
 - 🎮 Unityを使ったチーム制作ゲーム
-- 🌐 Webアプリの個人開発
+- 🛠 プログラムリーダー / システム設計
 
 ## 📊 GitHub Stats
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=LEON-72&theme=transparent)
-![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LEON-72&theme=github_dark)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LEON-72&theme=transparent)
+
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LEON-72&theme=github_dark)
 
 ## 📬 Connect with me
+
 [![X](https://skillicons.dev/icons?i=twitter)](https://x.com/Reon_hrb)
